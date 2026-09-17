@@ -7,6 +7,7 @@ html_code = """
 <body>
     <h1>Hello Guys dari Python!</h1>
     <p>File ini dibuat secara otomatis menggunakan script Python.</p>
+    <p>Bagaikan jatuh sikut dijilat tupai, rivaldi.</p>
 </body>
 </html>
 """
